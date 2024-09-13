@@ -1,1 +1,1 @@
-# netflix-sql-project
+# netflix Movies and Tv show analysis
